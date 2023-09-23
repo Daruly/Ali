@@ -1,11 +1,11 @@
 #Ali
 Software engineer
 
-Experinced in: 
--Solving competitive contests (c++)
--Creating Mobile applications (Java, Kotlin)
--Establishing telegram bots (Python, aiogram)
--Backend (Python, flask)
+Experinced in:<br />
+-Solving competitive contests (c++)<br />
+-Creating Mobile applications (Java, Kotlin)<br />
+-Establishing telegram bots (Python, aiogram)<br />
+-Backend (Python, flask)<br />
 
-CEO of @MPD-club 
-Co-Founder of https://myextra.kz
+CEO of @MPD-club <br />
+Co-Founder of https://myextra.kz<br />
